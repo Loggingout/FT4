@@ -15,7 +15,7 @@ body {
 }
 
 .slogan-background {
-    background-image: url(https://picsum.photos/seed/picsum/1200/350) no-repeat cover;
+    background: url(https://picsum.photos/seed/picsum/1200/350) no-repeat cover;
 
     color: black;
 }

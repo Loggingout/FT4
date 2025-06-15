@@ -19,6 +19,11 @@ body {
     color: white;
 }
 
+.service-background {
+    background-image: linear-gradient( 110.6deg,  rgba(4,20,51,1) 11.3%, rgba(239,238,249,1) 91.7% );
+    color: white
+}
+
 h1, h2, h3, h4, h5, h6 {
     margin-bottom: 1rem;
 }

@@ -45,7 +45,11 @@ body {
 .about-slogan-title {
     font-family: Impact;
     color: black;
-    font-size: 3rem;
+    font-size: 3.5rem;
+}
+
+.about-us-subtitle {
+    font-family: Impact;
 }
 
 .service-cards {
